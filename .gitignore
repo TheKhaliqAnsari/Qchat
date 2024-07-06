@@ -1,0 +1,6 @@
+/auth/.env
+/auth/.env.example
+/auth/node_modules
+/frontend/node_modules
+
+
